@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "name",
+      "description": "description",
+      "id": 1
+    },
+    {
+      "title": "Stream",
+      "description": "Streams description",
+      "id": 2
+    },
+    {
+      "title": "Nombre del streams",
+      "description": "Descripcion del strems modificado1",
+      "userId": "110921154021956530391",
+      "id": 3
+    },
+    {
+      "title": "New stream 2",
+      "description": "Nuevo stream reutilizando el stream form 2",
+      "id": 7
+    },
+    {
+      "title": "Nuevo stream",
+      "description": "description",
+      "userId": "110921154021956530391",
+      "id": 8
+    }
+  ]
+}
